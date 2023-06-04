@@ -11,22 +11,22 @@ sections:
       title: Biographie
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: features
-    content:
-      title: Compétences
-      items:
-        - name: R
-          description: Apprentissage machine, algorithmes de partition non-supervisée
-          icon: r-project
-          icon_pack: fab
-        - name: Statistiques
-          description: Modélisation multi-niveaux, modèles mixtes, modélisation bayésienne
-          icon: chart-line
-          icon_pack: fas
-        - name: Arts graphiques
-          description: Passion
-          icon: pen
-          icon_pack: fas
+  # - block: features
+  #   content:
+  #     title: Compétences
+  #     items:
+  #       - name: R
+  #         description: Apprentissage machine, algorithmes de partition non-supervisée
+  #         icon: r-project
+  #         icon_pack: fab
+  #       - name: Statistiques
+  #         description: Modélisation multi-niveaux, modèles mixtes, modélisation bayésienne
+  #         icon: chart-line
+  #         icon_pack: fas
+  #       - name: Arts graphiques
+  #         description: Passion
+  #         icon: pen
+  #         icon_pack: fas
   # - block: experience
     # content:
       # title: Experience
@@ -62,25 +62,25 @@ sections:
     #       description: Taught electronic engineering and researched semiconductor physics.
     # design:
     #   columns: '2'
-  - block: collection
-    id: featured
-    content:
-      title: Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
-    id: talks
-    content:
-      title: Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
+  # - block: collection
+  #   id: featured
+  #   content:
+  #     title: Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     columns: '2'
+  #     view: card
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     columns: '2'
+  #     view: compact
 ---
