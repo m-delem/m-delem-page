@@ -1,1 +1,1 @@
-My personal page WIP.
+My personal page WIP: https://m-delem.netlify.app/
