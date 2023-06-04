@@ -22,7 +22,7 @@ organizations:
     url: https://emc.univ-lyon2.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mes domaines de recherche sont l'imagerie mentale, l'aphantasie et l'endophasie (dite "parole intérieure").
+bio: Passionné par l'émergence de l'expérience subjective, mes domaines de recherche sont l'imagerie mentale, l'aphantasie et l'endophasie (dite "parole intérieure").
 
 # Interests to show in About widget
 interests:
