@@ -8,22 +8,22 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: Biographie
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: features
     content:
-      title: Skills
+      title: Compétences
       items:
         - name: R
           description: 90%
           icon: r-project
           icon_pack: fab
-        - name: Statistics
+        - name: Statistique
           description: 100%
           icon: chart-line
           icon_pack: fas
-        - name: Photography
+        - name: Photographie
           description: 10%
           icon: camera-retro
           icon_pack: fas
@@ -104,7 +104,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: Posts récents
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -131,7 +131,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Projets
       filters:
         folders:
           - project
@@ -157,7 +157,7 @@ sections:
       flip_alt_rows: false
   - block: markdown
     content:
-      title: Gallery
+      title: Galerie
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
@@ -166,7 +166,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: Publications
       filters:
         folders:
           - publication
@@ -176,7 +176,7 @@ sections:
       view: card
   - block: collection
     content:
-      title: Recent Publications
+      title: Publications récentes
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -191,7 +191,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Talks
       filters:
         folders:
           - event
@@ -211,7 +211,7 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
+      email: mael.a.delem@gmail.com
       phone: 888 888 88 88
       appointment_url: 'https://calendly.com'
       address:
